@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../Downloads/component_002_002/assets"
+		},
+		{
+			"name": "flame_sample_1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"yaml.schemas": {
+			"https://json.schemastore.org/pubspec.json": "file:///Users/gushiken/Desktop/flutter/flame_sample_1/pubspec.yaml"
+		}
+	}
+}
